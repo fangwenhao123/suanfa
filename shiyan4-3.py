@@ -26,3 +26,5 @@ def n_queens_branch_and_bound(N):
 
 # 测试
 print(n_queens_branch_and_bound(8))
+
+print("11111")
